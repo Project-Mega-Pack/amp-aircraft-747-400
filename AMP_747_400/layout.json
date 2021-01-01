@@ -1,0 +1,264 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/aircraft.cfg",
+      "size": 4716,
+      "date": 132539537392091333
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/aircraft.loc",
+      "size": 21429,
+      "date": 132423647147673425
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/approach.FLT",
+      "size": 5188,
+      "date": 132531772308965575
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/apron.FLT",
+      "size": 5057,
+      "date": 132531772311372556
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/cameras.cfg",
+      "size": 36313,
+      "date": 132531772309045584
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Climb.flt",
+      "size": 5193,
+      "date": 132531772309095594
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/cockpit.cfg",
+      "size": 4811,
+      "date": 132531772317499460
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/cruise.FLT",
+      "size": 5188,
+      "date": 132531772309146058
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/engines.cfg",
+      "size": 7134,
+      "date": 132531772275404075
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/final.FLT",
+      "size": 5196,
+      "date": 132531772309186072
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/flight_model.cfg",
+      "size": 41322,
+      "date": 132531772311462580
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/gameplay.cfg",
+      "size": 1152,
+      "date": 132423647147833461
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/hangar.flt",
+      "size": 4167,
+      "date": 132531772309225532
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/runway.flt",
+      "size": 5053,
+      "date": 132531772309275374
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/systems.cfg",
+      "size": 26975,
+      "date": 132531772295529826
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/target_performance.cfg",
+      "size": 2300,
+      "date": 132423647166304087
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/taxi.FLT",
+      "size": 4982,
+      "date": 132531772309315389
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Checklist/boeing747-400_Checklist.xml",
+      "size": 2625,
+      "date": 132423647237263488
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Checklist/Library.xml",
+      "size": 11560,
+      "date": 132423647147753446
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Model/b747_400.mdl",
+      "size": 7623177,
+      "date": 132478967734049620
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Model/B747_400_interior.mdl",
+      "size": 1474532,
+      "date": 132478938943418928
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Model/model.cfg",
+      "size": 631,
+      "date": 132539545777646601
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Panel/panel.cfg",
+      "size": 35,
+      "date": 132539542790218860
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/Asobo_B747_8i.PC.PCK",
+      "size": 77609431,
+      "date": 132531772314704198
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/sound.xml",
+      "size": 29429,
+      "date": 132531772314754220
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture/B747_1_LM.dds",
+      "size": 174888,
+      "date": 132086235760000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture/B747_1_T.dds",
+      "size": 1398224,
+      "date": 132086230320000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture/B747_1_T_bump.dds",
+      "size": 1048704,
+      "date": 132086230320000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture/B747_1_T_Specular.dds",
+      "size": 1398224,
+      "date": 132086230320000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture/B747_2_T.dds",
+      "size": 1398224,
+      "date": 132086230320000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture/B747_2_T_bump.dds",
+      "size": 1048704,
+      "date": 132086230320000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture/B747_2_T_specular.dds",
+      "size": 1398224,
+      "date": 132086230320000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture/B747_400_1_C.dds",
+      "size": 699176,
+      "date": 132086230320000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture/B747_400_2_C.dds",
+      "size": 699176,
+      "date": 132086230320000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture/B747_400_3_C.dds",
+      "size": 699176,
+      "date": 132086230320000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture/B747_400_4_C.dds",
+      "size": 699176,
+      "date": 132086230320000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture/B747_400_5_C.dds",
+      "size": 174888,
+      "date": 132086278460000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture/B747_400_6_C.dds",
+      "size": 174888,
+      "date": 132086278460000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture/B747_400_7_C.dds",
+      "size": 174888,
+      "date": 132086235660000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture/B747_400_interior.dds",
+      "size": 174888,
+      "date": 132086235700000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture/B747_400_reflection.dds",
+      "size": 174888,
+      "date": 132086235700000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture/Fresnel_Ramp.dds",
+      "size": 640,
+      "date": 132086234980000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture/fresnel_ramp_1.dds",
+      "size": 640,
+      "date": 132086234980000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture/pilots.dds",
+      "size": 43816,
+      "date": 132086278460000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture/texture.cfg",
+      "size": 304,
+      "date": 132539538299543410
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture/thumbnail.jpg",
+      "size": 7464,
+      "date": 132086235020000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture.Default/b747_1_t.dds",
+      "size": 1398224,
+      "date": 132086230320000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture.Default/b747_1_t_specular.dds",
+      "size": 1398224,
+      "date": 132086230320000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture.Default/Fresnel_Ramp.dds",
+      "size": 640,
+      "date": 132086234980000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture.Default/Fresnel_Ramp_1.dds",
+      "size": 640,
+      "date": 132086235760000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture.Default/texture.cfg",
+      "size": 327,
+      "date": 132539538575305959
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture.Default/thumbnail.jpg",
+      "size": 8008,
+      "date": 132086278460000000
+    }
+  ]
+}
