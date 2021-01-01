@@ -52,8 +52,8 @@
     },
     {
       "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/flight_model.cfg",
-      "size": 41322,
-      "date": 132531772311462580
+      "size": 41319,
+      "date": 132539565449784415
     },
     {
       "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/gameplay.cfg",
@@ -96,6 +96,11 @@
       "date": 132423647147753446
     },
     {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Model/.B747_400_interior.mdl",
+      "size": 1474532,
+      "date": 132086230320000000
+    },
+    {
       "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Model/b747_400.mdl",
       "size": 7623177,
       "date": 132478967734049620
@@ -107,8 +112,8 @@
     },
     {
       "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Model/model.cfg",
-      "size": 631,
-      "date": 132539545777646601
+      "size": 625,
+      "date": 132540136175263539
     },
     {
       "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Panel/panel.cfg",
