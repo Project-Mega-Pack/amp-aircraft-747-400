@@ -53,7 +53,7 @@
     {
       "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/flight_model.cfg",
       "size": 41319,
-      "date": 132539565449784415
+      "date": 132540153401323059
     },
     {
       "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/gameplay.cfg",
@@ -126,9 +126,419 @@
       "date": 132531772314704198
     },
     {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/Avionics.wav",
+      "size": 4343641,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/Belt.wav",
+      "size": 51713,
+      "date": 131695061700000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/CombstartL.wav",
+      "size": 5330169,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/CombstartLX.wav",
+      "size": 2658901,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/CombstartR.wav",
+      "size": 5411753,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/CombstartRX.wav",
+      "size": 3117027,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/Door-C.wav",
+      "size": 712197,
+      "date": 131695061700000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/Door-O.wav",
+      "size": 631209,
+      "date": 131695061700000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/ExhaustLX.wav",
+      "size": 1335145,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/ExhaustRX.wav",
+      "size": 550605,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/Flaps.wav",
+      "size": 1599237,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/fuelpump.wav",
+      "size": 304689,
+      "date": 131695061700000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/GearDown.wav",
+      "size": 1577717,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/GearUp.wav",
+      "size": 3288173,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/GrindL.wav",
+      "size": 4154389,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/GrindLX.wav",
+      "size": 701185,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/GrindR.wav",
+      "size": 4152889,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/GrindRX.wav",
+      "size": 584959,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/HExhaustLX.wav",
+      "size": 475619,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/HExhaustRX.wav",
+      "size": 1000095,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/HighWhineL.wav",
+      "size": 1148569,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/HighWhineLX.wav",
+      "size": 576443,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/HighWhineR.wav",
+      "size": 1148569,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/HighWhineRX.wav",
+      "size": 238595,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/HPowerL.wav",
+      "size": 1027601,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/HPowerLX.wav",
+      "size": 701561,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/HPowerR.wav",
+      "size": 1021501,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/HPowerRX.wav",
+      "size": 841059,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/IdleBackX.wav",
+      "size": 1095701,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/idleL.wav",
+      "size": 1509489,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/idleLA.wav",
+      "size": 1508257,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/IdleLX.wav",
+      "size": 1972639,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/idleR.wav",
+      "size": 1502565,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/idleRA.wav",
+      "size": 1507061,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/IdleRX.wav",
+      "size": 2327553,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/intakeL.wav",
+      "size": 1510437,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/intakeLX.wav",
+      "size": 2297759,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/intakeR.wav",
+      "size": 1510401,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/intakeRX.wav",
+      "size": 2310253,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/LowPowerL.wav",
+      "size": 1543821,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/LowPowerR.wav",
+      "size": 1543821,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/LowWhineL.wav",
+      "size": 1531181,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/LowWhineLX.wav",
+      "size": 1026145,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/LowWhineR.wav",
+      "size": 1531157,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/LowWhineRX.wav",
+      "size": 1039271,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/PowerL.wav",
+      "size": 2826674,
+      "date": 131695122110000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/PowerLX.wav",
+      "size": 655753,
+      "date": 131695120840000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/PowerR.wav",
+      "size": 2812274,
+      "date": 131695122240000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/PowerRX.wav",
+      "size": 727181,
+      "date": 131695120850000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/RevL.wav",
+      "size": 4867501,
+      "date": 131695120850000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/RevLX.wav",
+      "size": 2066265,
+      "date": 131695120850000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/RevR.wav",
+      "size": 5094805,
+      "date": 131695120850000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/RevRX.wav",
+      "size": 2758393,
+      "date": 131695120850000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/Roll.wav",
+      "size": 2799189,
+      "date": 131695061700000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/S1.wav",
+      "size": 187677,
+      "date": 131695061700000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/S2.wav",
+      "size": 187677,
+      "date": 131695061700000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/S3.wav",
+      "size": 187677,
+      "date": 131695061700000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/S4.wav",
+      "size": 187677,
+      "date": 131695061700000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/shutdownL.wav",
+      "size": 3973697,
+      "date": 131695120850000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/shutdownLX.wav",
+      "size": 4449771,
+      "date": 131695120850000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/shutdownR.wav",
+      "size": 3980401,
+      "date": 131695120850000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/shutdownRX.wav",
+      "size": 3892489,
+      "date": 131695120850000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/smoke.wav",
+      "size": 48941,
+      "date": 131695061700000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/sound.cfg",
+      "size": 15696,
+      "date": 132570656022962614
+    },
+    {
       "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/sound.xml",
-      "size": 29429,
-      "date": 132531772314754220
+      "size": 25817,
+      "date": 132570658314555763
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/starterL.wav",
+      "size": 9023689,
+      "date": 131695120850000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/starterLX.wav",
+      "size": 4407859,
+      "date": 131695120850000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/starterR.wav",
+      "size": 9158329,
+      "date": 131695120850000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/starterRX.wav",
+      "size": 4518437,
+      "date": 131695120850000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/TouchF.wav",
+      "size": 281865,
+      "date": 131695061700000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/TouchL.wav",
+      "size": 194549,
+      "date": 131695061700000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/TouchR.wav",
+      "size": 231529,
+      "date": 131695061700000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/WhineL.wav",
+      "size": 999437,
+      "date": 131695120850000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/WhineLX.wav",
+      "size": 752469,
+      "date": 131695120850000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/WhineR.wav",
+      "size": 999501,
+      "date": 131695120850000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/WhineRX.wav",
+      "size": 378335,
+      "date": 131695120850000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/WindA.wav",
+      "size": 2542878,
+      "date": 131695122690000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/WindAX.wav",
+      "size": 2889002,
+      "date": 131695121180000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/WindB.wav",
+      "size": 2882926,
+      "date": 131695122540000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/WindBX.wav",
+      "size": 3850538,
+      "date": 131695121180000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/WindC.wav",
+      "size": 8400914,
+      "date": 131695121180000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/WindCX.wav",
+      "size": 8400914,
+      "date": 131695121180000000
+    },
+    {
+      "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/sound/WindD.wav",
+      "size": 2802822,
+      "date": 131695122400000000
     },
     {
       "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture/B747_1_LM.dds",
@@ -237,8 +647,8 @@
     },
     {
       "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture.Default/b747_1_t.dds",
-      "size": 1398224,
-      "date": 132086230320000000
+      "size": 22369796,
+      "date": 132542619134810615
     },
     {
       "path": "SimObjects/AIRPLANES/AMP_Boeing_747_400/Texture.Default/b747_1_t_specular.dds",

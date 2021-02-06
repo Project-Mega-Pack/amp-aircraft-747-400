@@ -39,19 +39,6 @@
   </WindSounds>
     
   <GroundSounds>
-    <Sound WwiseEvent="CENTER_TOUCHDOWN" FadeOutType="2" FadeOutTime="0.5" WwiseData="true" >
-		<WwiseRTPC SimVar="WHEEL RPM" Units="RPM" Index="0" Derived="true" RTPCName="SIMVAR_WHEEL_RPM_DERIVED"/>
-		<WwiseRTPC SimVar="VERTICAL SPEED" Units="FEET PER MINUTE" Derived="true" Index="0" RTPCName="SIMVAR_VERTICAL_SPEED_DERIVED" />
-	</Sound> 
-	<Sound WwiseEvent="LEFT_TOUCHDOWN" FadeOutType="2" FadeOutTime="0.5" WwiseData="true" >  
-		<WwiseRTPC SimVar="WHEEL RPM" Units="RPM" Index="1" Derived="true" RTPCName="SIMVAR_WHEEL_RPM_DERIVED"/>
-		<WwiseRTPC SimVar="VERTICAL SPEED" Units="FEET PER MINUTE" Derived="true" Index="0" RTPCName="SIMVAR_VERTICAL_SPEED_DERIVED" />
-	</Sound>
-    <Sound WwiseEvent="RIGHT_TOUCHDOWN" FadeOutType="2" FadeOutTime="0.5" WwiseData="true" >
-		<WwiseRTPC SimVar="WHEEL RPM" Units="RPM" Index="2" Derived="true" RTPCName="SIMVAR_WHEEL_RPM_DERIVED"/>
-		<WwiseRTPC SimVar="VERTICAL SPEED" Units="FEET PER MINUTE" Derived="true" Index="0" RTPCName="SIMVAR_VERTICAL_SPEED_DERIVED" />
-	</Sound>
-    <Sound WwiseEvent="GROUND_ROLL" FadeOutType="2" FadeOutTime="0.2" WwiseData="true" />
     <Sound WwiseEvent="RIGHT_WING_SCRAPE" ContinuousStopDelay="0.25" FadeOutType="2" FadeOutTime="0.25"  WwiseData="true" NodeName="AILERON_RIGHTINNER" />
     <Sound WwiseEvent="LEFT_WING_SCRAPE" ContinuousStopDelay="0.25" FadeOutType="2" FadeOutTime="0.25"  WwiseData="true" NodeName="AILERON_LEFTINNER" />
     <Sound WwiseEvent="FUSELAGE_SCRAPE" ContinuousStopDelay="0.5" FadeOutType="1" FadeOutTime="0.1" WwiseData="true" />
@@ -63,17 +50,6 @@
     <Sound WwiseEvent="GLIDESLOPE_WARNING_SOUND" WwiseData="true" />
     <Sound WwiseEvent="SEATBELTS_ALERT" WwiseData="true" BreakOnStop="true"/>
   </MiscellaneousSounds>
-  
-  <EngineSoundPresets>
-    <Sound WwiseEvent="Combustion" ConeHeading="180" WwiseData="true" EngineIndex="1" FadeOutType="2" FadeOutTime="5" />
-    <Sound WwiseEvent="Combustion" ConeHeading="180" WwiseData="true" EngineIndex="2" FadeOutType="2" FadeOutTime="5" />
-    <Sound WwiseEvent="Combustion" ConeHeading="180" WwiseData="true" EngineIndex="3" FadeOutType="2" FadeOutTime="5" />
-    <Sound WwiseEvent="Combustion" ConeHeading="180" WwiseData="true" EngineIndex="4" FadeOutType="2" FadeOutTime="5" />
-    <Sound WwiseEvent="JetWhine" ConeHeading="0" WwiseData="true" EngineIndex="1" RPMMin="1"/>
-    <Sound WwiseEvent="JetWhine" ConeHeading="0" WwiseData="true" EngineIndex="2" RPMMin="1"/>
-    <Sound WwiseEvent="JetWhine" ConeHeading="0" WwiseData="true" EngineIndex="3" RPMMin="1"/>
-    <Sound WwiseEvent="JetWhine" ConeHeading="0" WwiseData="true" EngineIndex="4" RPMMin="1"/>
-  </EngineSoundPresets> 
 
 <!-- SIMVAR SOUNDS ========================================================================================== -->
 
@@ -125,12 +101,6 @@
       </Requires>	
       <WwiseRTPC SimVar="TRAILING EDGE FLAPS RIGHT PERCENT" Units="PERCENT" Derived="true" Index="0" RTPCName="SIMVAR_TRAILING_EDGE_FLAPS_RIGHT_PERCENT_DERIVED" />
     </Sound>
-    
-    <Sound WwiseEvent="GEAR_MOVEMENT" WwiseData="true" FadeOutType="2" FadeOutTime="0.1" SimVar="GEAR TOTAL PCT EXTENDED" Units="PERCENT">
-      <WwiseRTPC SimVar="GEAR TOTAL PCT EXTENDED" Units="PERCENT" Index="0" RTPCName="SIMVAR_GEAR_TOTAL_PCT_EXTENDED" />
-      <WwiseRTPC SimVar="GEAR TOTAL PCT EXTENDED" Units="PERCENT" Derived="true" Index="0" RTPCName="SIMVAR_GEAR_TOTAL_PCT_EXTENDED_DERIVED" />
-	  <WwiseRTPC SimVar="ELECTRICAL MAIN BUS VOLTAGE" Units="VOLTS" Index="1" RTPCName="SIMVAR_ELECTRICAL_MAIN_BUS_VOLTAGE" />
-    </Sound>  
     
   	<!-- COCKPIT LOOPS SOUNDS ========================================================================================== -->    
        
